@@ -15,35 +15,36 @@ Uygulamanın genel akışı ve etkileşim yapısı.
 
 ⸻
 
-🖥️ Interface Screens
+## 🎬 Demo
 
-📱 Screen 1 – Ana görünüm
+![Demo Video](./screen/demo-video.gif)
 
-Minimal ve odaklı başlangıç ekranı.
+---
 
-⸻
+## 🖼 Interface Screens
 
-🎧 Screen 2 – Playlist detay
+### 🏠 Screen 1 – Ana Görünüm
+![Screen1](./screen/screen1.png)
 
-Liste yapısı ve içerik düzeni.
+---
 
-⸻
+### 🎵 Screen 2 – Playlist Detay
+![Screen2](./screen/screen2.png)
 
-🎵 Screen 3 – Aktif müzik alanı
+---
 
-Çalınan içerik ve kontrol yapısı.
+### 🎧 Screen 3 – Aktif Müzik Alanı
+![Screen3](./screen/screen3.png)
 
-⸻
+---
 
-📂 Screen 4 – Ek içerik düzeni
+### 📋 Screen 4 – İçerik Yapısı
+![Screen4](./screen/screen4.png)
 
-Kart yapısı ve görsel hiyerarşi.
+---
 
-⸻
-
-🎶 Screen 5 – Alternatif görünüm
-
-Responsive uyum ve tasarım dengesi.
+### 📱 Screen 5 – Responsive Görünüm
+![Screen5](./screen/screen5.png)
 
 ⸻
 
@@ -75,10 +76,9 @@ Yapıyı sıfırdan kurarak tasarım ve kod organizasyonu üzerine bilinçli ça
 🙏 Acknowledgment
 
 Frontend eğitim sürecimdeki disiplinli yaklaşımı ve rehberliği için
-Mehmet Can Seyhan’a teşekkür ederim.
+https://github.com/isveckrali’a teşekkür ederim.
 
-Ayrıca yapılandırılmış ve kariyer odaklı eğitim modeli için
-Udemig platformuna teşekkür ederim.
+Ayrıca yapılandırılmış ve kariyer odaklı eğitim modeli için https://github.com/Udemig platformuna teşekkür ederim.
 
 ⸻
 
